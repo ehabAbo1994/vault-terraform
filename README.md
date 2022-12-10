@@ -21,7 +21,7 @@ in your terminal type:
 ![Getting Started](./images/secrets.PNG)
 
 back to terraform:
-    - create a new filr vault.tf
+    - create a new file vault.tf
 
 ![Getting Started](./images/vault-terraform.PNG)
 
@@ -29,4 +29,5 @@ back to terraform:
     
 ![Getting Started](./images/providers.PNG)
 
--- congratulations !! now our secrets are secure using hashicorp vault.
+-- congratulations !! now our secrets are secure using hashicorp vault. 
+
